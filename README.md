@@ -11,3 +11,6 @@ https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/03-
 
 #Detect and Analyze Faces
 https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/04-face-service.html
+
+#Read Text in Images
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/05-ocr.html
