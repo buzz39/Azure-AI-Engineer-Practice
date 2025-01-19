@@ -4,3 +4,4 @@ matplotlib
 pillow
 azure-ai-vision-imageanalysis==1.0.0b3
 azure-cognitiveservices-vision-customvision==3.1.1
+azure-ai-vision-face==1.0.0b2

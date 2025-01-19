@@ -8,3 +8,6 @@ https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/07-
 
 #Detect Objects in Images with Azure AI Custom Vision
 https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/03-custom-vision-object-detection.html
+
+#Detect and Analyze Faces
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/04-face-service.html
