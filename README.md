@@ -5,3 +5,6 @@ https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-
 
 #Classify Images with Azure AI Custom Vision
 https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/07-custom-vision-image-classification.html
+
+#Detect Objects in Images with Azure AI Custom Vision
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/03-custom-vision-object-detection.html
