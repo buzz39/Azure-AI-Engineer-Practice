@@ -1,0 +1,5 @@
+python-dotenv
+requests
+matplotlib
+pillow
+azure-ai-vision-imageanalysis==1.0.0b3
