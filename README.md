@@ -7,6 +7,7 @@
 4. [Detect and Analyze Faces](#detect-and-analyze-faces)
 5. [Read Text in Images](#read-text-in-images)
 6. [Analyze Video with Video Indexer](#analyze-video-with-video-indexer)
+7. [Analyze Text](#analyze-text)
 
 ## Analyze Images with Azure AI Vision
 [Analyze Images with Azure AI Vision](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-analyze-images.html)
@@ -25,3 +26,6 @@
 
 ## Analyze Video with Video Indexer
 [Analyze Video with Video Indexer](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/06-video-indexer.html)
+
+## Analyze Text
+[Analyze Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/01-analyze-text.html)
