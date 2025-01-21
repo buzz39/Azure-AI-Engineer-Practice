@@ -8,6 +8,8 @@
 5. [Read Text in Images](#read-text-in-images)
 6. [Analyze Video with Video Indexer](#analyze-video-with-video-indexer)
 7. [Analyze Text](#analyze-text)
+8. [Create a Question Answering Solution](#create-a-question-answering-solution)
+9. [Create a language understanding model with the Language service](#create-a-language-understanding-model-with-the-language-service)
 
 ## Analyze Images with Azure AI Vision
 [Analyze Images with Azure AI Vision](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-analyze-images.html)
@@ -29,3 +31,9 @@
 
 ## Analyze Text
 [Analyze Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/01-analyze-text.html)
+
+## Create a Question Answering Solution
+[Create a Question Answering Solution](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/02-qna.html)
+
+## Create a language understanding model with the Language service
+[Create a language understanding model with the Language service](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/03-language-understanding.html)
