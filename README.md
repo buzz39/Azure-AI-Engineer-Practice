@@ -14,6 +14,7 @@
 11. [Extract custom entities](#extract-custom-entities)
 12. [Translate Text](#translate-text)
 13. [Recognize and synthesize speech](#recognize-and-synthesize-speech)
+14. [Translate Speech](#translate-speech)
 
 ## Analyze Images with Azure AI Vision
 [Analyze Images with Azure AI Vision](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-analyze-images.html)
@@ -53,3 +54,6 @@
 
 ## Recognize and synthesize speech
 [Recognize and synthesize speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/07-speech.html)
+
+## Translate Speech
+[Translate Speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/08-translate-speech.html)
