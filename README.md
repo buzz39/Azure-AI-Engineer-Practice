@@ -15,6 +15,8 @@
 12. [Translate Text](#translate-text)
 13. [Recognize and synthesize speech](#recognize-and-synthesize-speech)
 14. [Translate Speech](#translate-speech)
+15. [Create an Azure AI Search solution](#create-an-azure-ai-search-solutions)
+16. [Create a Custom Skill for Azure AI Search](#create-a-custom-skill-for-azure-AI-search)
 
 ## Analyze Images with Azure AI Vision
 [Analyze Images with Azure AI Vision](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-analyze-images.html)
@@ -57,3 +59,9 @@
 
 ## Translate Speech
 [Translate Speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/08-translate-speech.html)
+
+## Create an Azure AI Search solution
+[Create an Azure AI Search solution](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/01-azure-search.html)
+
+## Create a Custom Skill for Azure AI Search
+[Create a Custom Skill for Azure AI Search](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/02-search-skills.html)
